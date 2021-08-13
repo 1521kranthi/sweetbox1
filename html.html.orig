@@ -3,6 +3,10 @@
 <h1>Home Page</h1>
 <p>First HTML Page</p>
 <p>First HTML Page</p>
+<<<<<<< HEAD
+<p>First HTML Page</p>
+=======
 <p>Second HTML Page</p>
+>>>>>>> e2e0e3c416a622c7dbca307ee7c3488aa788cba0
 </body>
 </html>
